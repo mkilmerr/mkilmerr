@@ -1,6 +1,6 @@
 ### Hello World, one more Bug!<img src="https://media.giphy.com/media/bfrlODgSLqXxS/giphy.gif" width="40" height="50" />
 
-👨🏿‍💻 iOS Engineer - 🇧🇷 Brazilian - 🧐 in search of a backend language
+👨🏿‍💻 iOS Engineer  & Flutter Freelance - 🇧🇷 Brazilian - 🧐 
 
 <a target="_blank" href="https://www.linkedin.com/in/marcos-kilmer/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
