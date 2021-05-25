@@ -1,4 +1,4 @@
-### Hello World, one more Bug! <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="40" height="50" /> <img src="https://media.giphy.com/media/l378BaFZ8AUJ20NvW/giphy.gif" width="40" height="50" />
+### Hello World, one more Bug! <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="60" height="60" /> <img src="https://media.giphy.com/media/l378BaFZ8AUJ20NvW/giphy.gif" width="40" height="50" />
 
 👨🏿‍💻 iOS Engineer  - 🇧🇷 Brazilian - 🧐 
 
