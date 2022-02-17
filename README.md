@@ -1,6 +1,6 @@
 ### Hello World, one more Bug! <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="40" height="40" /> <img src="https://media.giphy.com/media/uHEqSttWHv476/giphy.gif" width="40" height="50" />
 
-👨🏿‍💻 iOS Developer / Flutter Developer  - 🇧🇷 Brazilian - 🧐 
+👨🏿‍💻 iOS Developer  - 🇧🇷 Brazilian - 🧐 
 
 <a target="_blank" href="https://www.linkedin.com/in/marcos-kilmer/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
