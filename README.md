@@ -9,23 +9,17 @@
  <img src="https://user-images.githubusercontent.com/34096743/178117876-d7387f54-61ca-43be-9eb7-34566f050743.png" width="260"> <img src="https://user-images.githubusercontent.com/34096743/178118011-e6a17e5b-375e-42e4-afce-8c87a6954a00.png" width="260">  <img src="https://user-images.githubusercontent.com/34096743/178117980-32b7dd80-d50b-404c-8f21-cfc7c1624e2a.png" width="260"> 
 
 
+### Reach me out
+
 
 <a target="_blank" href="https://www.linkedin.com/in/marcos-kilmer/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a3
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5585989654018">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="LinkdeIN" width="80" src="https://user-images.githubusercontent.com/34096743/178118203-966b70f0-ba8d-401d-bff2-fa80140355f7.png" />
 </a>
-<a target="_blank" href="https://www.instagram.com/marcos_kilmer/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+ 
+ <a target="_blank" href="https://dev.to/mkilmer">
+  <img align="left" alt="LinkdeIN" width="80" src="https://user-images.githubusercontent.com/34096743/178118386-79f3593c-e31d-4406-9414-7ca5a27c9055.png" />
 </a>
-<a target="_blank" href="https://dev.to/mkilmer">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:marcoskilmer1@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
+ 
+ 
 <br>
-<hr></hr>
-  
+ 
