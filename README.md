@@ -1,6 +1,10 @@
-### Hello World, one more Bug! <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="40" height="40" /> <img src="https://media.giphy.com/media/uHEqSttWHv476/giphy.gif" width="40" height="50" />
-
-👨🏿‍💻 iOS Developer  - 🇧🇷 Brazilian - 🧐 
+ <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/uHEqSttWHv476/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif" width="100"/> <img src="https://media.giphy.com/media/m8jPxnABaL6dhnceRP/giphy.gif" width="100"></img> <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>  <img src="https://media.giphy.com/media/m8jPxnABaL6dhnceRP/giphy.gif" width="100" /> <img src="https://media.giphy.com/media/3y0oCOkdKKRi0/giphy.gif" width ="100"/> <img src="https://media.giphy.com/media/TsHvwNpO6GYPC/giphy.gif" width="100"/> <img src="https://media.giphy.com/media/l1ERvC1z5WQjS/giphy.gif" width="50"/> 
+ 
+ 
+ 
+ 
+ 
+👨🏿‍💻 💻 📱 🛸 👽 **iOS Developer**
 
 <a target="_blank" href="https://www.linkedin.com/in/marcos-kilmer/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
