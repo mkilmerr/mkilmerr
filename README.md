@@ -2,7 +2,7 @@
  
  
 
-👨🏿‍💻 ~ 💻 📱 🛸 👽 ❐ ‿ ❑ 🤟🏾 🥑 🎧🦄 😵‍💫 🫥 ☄️ 🎱 👾 ☀️ (‘ω’ )╯ :star2: :skull: :cloud: :minidisc: :libra: :warning: :chocolate_bar: :no_bell:
+👨🏿‍💻 ~ 💻 📱 🛸 👽 ❐ ‿ ❑ 🤟🏾 🥑 🎧🦄 😵‍💫 🫥 ☄️ 🎱 👾 ☀️ (‘ω’ )╯ :star2: :skull: :cloud: :minidisc: :libra: :warning: :chocolate_bar: :no_bell: 👀 🙈
  ## iOS Developer
 
 <a target="_blank" href="https://www.linkedin.com/in/marcos-kilmer/">
