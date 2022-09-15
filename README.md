@@ -1,6 +1,5 @@
- <img src="https://media.giphy.com/media/17mNCcKU1mJlrbXodo/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/uHEqSttWHv476/giphy.gif" width="50" /> <img src="https://media.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif" width="100"/> <img src="https://media.giphy.com/media/m8jPxnABaL6dhnceRP/giphy.gif" width="100"></img> <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>  <img src="https://media.giphy.com/media/m8jPxnABaL6dhnceRP/giphy.gif" width="100" /> <img src="https://media.giphy.com/media/3y0oCOkdKKRi0/giphy.gif" width ="100"/> <img src="https://media.giphy.com/media/TsHvwNpO6GYPC/giphy.gif" width="100"/> <img src="https://media.giphy.com/media/l1ERvC1z5WQjS/giphy.gif" width="50"/> 
- 
-*********
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
+
 
 👨🏿‍💻 ~ 💻 📱 🛸 👽 ❐ ‿ ❑ 🤟🏾 🥑 🎧🦄 😵‍💫 🫥 ☄️ 🎱 👾 ☀️ (‘ω’ )╯ :star2: :skull: :cloud: :minidisc: :libra: :warning: :chocolate_bar: :no_bell: 👀 🙈 :frog: :telescope:
  #   <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="20">  ɪ'ᴍ ᴋɪʟᴍᴇʀ - 𝕚𝕆𝕊 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 - <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="20">
