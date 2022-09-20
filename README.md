@@ -11,9 +11,9 @@
 ### Reach me out
 
 
-<a target="_blank" href="https://www.linkedin.com/in/marcos-kilmer/">
+<!-- <a target="_blank" href="https://www.linkedin.com/in/marcos-kilmer/">
   <img align="left" alt="LinkdeIN" width="80" src="https://user-images.githubusercontent.com/34096743/178118203-966b70f0-ba8d-401d-bff2-fa80140355f7.png" />
-</a>
+</a> -->
  
  <a target="_blank" href="https://dev.to/mkilmer">
   <img align="left" alt="LinkdeIN" width="80" src="https://user-images.githubusercontent.com/34096743/178118386-79f3593c-e31d-4406-9414-7ca5a27c9055.png" />
