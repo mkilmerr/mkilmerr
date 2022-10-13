@@ -5,7 +5,7 @@
  #   <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="20">  ɪ'ᴍ ᴋɪʟᴍᴇʀ - 𝕚𝕆𝕊 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 - <img src="https://media.giphy.com/media/WtOkaikiwaR87ZvAFH/giphy.gif" width="20">
  
  
- <img src="https://user-images.githubusercontent.com/34096743/178117876-d7387f54-61ca-43be-9eb7-34566f050743.png" width="260"> <img src="https://user-images.githubusercontent.com/34096743/178118011-e6a17e5b-375e-42e4-afce-8c87a6954a00.png" width="260">  <img src="https://user-images.githubusercontent.com/34096743/178117980-32b7dd80-d50b-404c-8f21-cfc7c1624e2a.png" width="260"> 
+ <img src="https://user-images.githubusercontent.com/34096743/178117876-d7387f54-61ca-43be-9eb7-34566f050743.png" width="150">  <img src="https://user-images.githubusercontent.com/34096743/178117980-32b7dd80-d50b-404c-8f21-cfc7c1624e2a.png" width="150">  <img src="https://user-images.githubusercontent.com/34096743/195671257-6026aa84-9d84-46e7-b061-ccf5286f3d43.png" width="150"> <img src="https://user-images.githubusercontent.com/34096743/178118011-e6a17e5b-375e-42e4-afce-8c87a6954a00.png" width="150"> 
 
 
 ### Reach me out
